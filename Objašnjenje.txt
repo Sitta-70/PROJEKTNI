@@ -1,0 +1,1 @@
+Šaljem dodatan screenshot da font radi, kod kuće font u h1 normalno radi i preko githuba i root mapi, no kod profesora na nastavi nije radio iz nekog razloga.
